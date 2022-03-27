@@ -11,6 +11,7 @@
   inputs.src-niledb-master.ref   = "refs/heads/master";
   inputs.src-niledb-master.owner = "JeffersonLab";
   inputs.src-niledb-master.repo  = "niledb";
+  inputs.src-niledb-master.dir   = "";
   inputs.src-niledb-master.type  = "github";
   
   inputs."serializetools".owner = "nim-nix-pkgs";
