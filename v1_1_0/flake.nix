@@ -11,7 +11,6 @@
   inputs.src-niledb-v1_1_0.ref   = "refs/tags/v1.1.0";
   inputs.src-niledb-v1_1_0.owner = "JeffersonLab";
   inputs.src-niledb-v1_1_0.repo  = "niledb";
-  inputs.src-niledb-v1_1_0.dir   = "";
   inputs.src-niledb-v1_1_0.type  = "github";
   
   inputs."serializetools".owner = "nim-nix-pkgs";
