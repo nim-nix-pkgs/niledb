@@ -53,11 +53,11 @@
       },
       "locked": {
         "dir": "v1_16_2",
-        "lastModified": 1658032195,
-        "narHash": "sha256-ztd/SlHJ0aujK4GtLhO88+jM1wqeTYhKtLFXVLWRJQU=",
+        "lastModified": 1658201855,
+        "narHash": "sha256-uGGmdSGuXUal5yv86Loq/ikjMYGy7ilmPW/5I39apmY=",
         "owner": "nim-nix-pkgs",
         "repo": "serializetools",
-        "rev": "4ebf150914e05ecbbed5135c897f4e13a2d25b74",
+        "rev": "13dabcc6bf2993ceaaabd63a39e0ff86156be6cd",
         "type": "github"
       },
       "original": {
