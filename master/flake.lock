@@ -220,11 +220,11 @@
       },
       "locked": {
         "dir": "v1_16_2",
-        "lastModified": 1668749039,
-        "narHash": "sha256-M8nRpYclLvuz5K1TCpriEt55K4bY8my5o/tMsf304pM=",
+        "lastModified": 1668754798,
+        "narHash": "sha256-44otgFOxQpm4R3pNceh8zn3X7C+GKFzr546+vMZT0yQ=",
         "owner": "nim-nix-pkgs",
         "repo": "serializetools",
-        "rev": "b5a67bea46f29024a11dd9948f1b349485fbe2a1",
+        "rev": "192f8bd808088c16f56fef778f9bd80d9fcdc7e6",
         "type": "github"
       },
       "original": {
